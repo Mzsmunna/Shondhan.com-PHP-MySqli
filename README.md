@@ -1,0 +1,2 @@
+# Shondhan.com-MySqli
+It's a Home or Flat or Land rent / sell  Web Application. I Developed this web project back in 2017 based on  PHP, JavaScript, Ajax, MySQL, Bootstrap. In this App you post add along with picture. And those who are interested can contact with the Owner through the contact number from the ADD Post. Basic CRUD operation of Advertise add, update , delete and search as well as Ajax search is available. 
