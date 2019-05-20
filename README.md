@@ -7,4 +7,5 @@ Admin Panel is missing here in this project as I was inspired bt Bikroy.com & th
 
 In this Project database will be auto generated. So no sql file is necessary to run the Project. Just Clone/Download the project. Make sure your MySQL is running and you are good to go.
 
-❮img src="demo/shondhan.gif" width="100" ❯
+# Demo
+<img src="demo/shondhan.gif" title="shondhan.com"/>
